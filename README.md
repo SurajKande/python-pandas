@@ -62,5 +62,10 @@ some common data issues:
         * histogram
         * box plot
         * scatter plot
+6. [time series Date time indexing](https://github.com/SurajKande/python-pandas/blob/master/time_series_datetime_indexing.ipynb)
+7. [case study on Life Expectany](https://github.com/SurajKande/python-pandas/blob/master/case_study_life_expectancy.ipynb)
+8. [case study on Olympic medals](https://github.com/SurajKande/python-pandas/blob/master/case_study_olympic_medals.ipynb)
+9. [case study on austin weather changes using Datetime index](https://github.com/SurajKande/python-pandas/blob/master/time_series_case_study_austin_weather.ipynb)
 
-more changes will be made, content will be added as i keep making progress.      
+
+note: more changes will be made, content will be added as i keep making progress.      
