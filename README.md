@@ -11,13 +11,13 @@ This repository consists of the codes and some case studies based on the topics,
              Processing the data in simple terms Cleaning the data is important, if not processed the data may cause noise, errors and  decrease the accuracy of the model  
 
 some common data isues:
-    >   Inconsistent column names
-    >   Missing Data
-    >   Duplicate Data
-    >   Outliers
-    >   Need to process the columns
-    >   Column types can send unexpected data values
- 
+      *   Inconsistent column names
+      *   Missing Data
+      *   Duplicate Data
+      *   Outliers
+      *   Need to process the columns
+      *   Column types can send unexpected data values
+
 ## Table of Contents:
 1. [python_pandas basic introduction](https://github.com/SurajKande/python-pandas/blob/master/python_pandas.ipynb)
      * creating a dataframe from dictionary
@@ -59,9 +59,9 @@ some common data isues:
 4. [statistics](https://github.com/SurajKande/python-pandas/blob/master/data_statistics_eda_python.ipynb)
 5. [Visualization](https://github.com/SurajKande/python-pandas/blob/master/data_visualization_python.ipynb)
      * Matplotlib
-      > line plot
-      > histogram
-      > box plot
-      > scatter plot
+        * line plot
+        * histogram
+        * box plot
+        * scatter plot
 
 more changes will be made, content will be added as i keep making progress.      
