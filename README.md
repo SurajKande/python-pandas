@@ -1,4 +1,4 @@
-# python-pandas
+# python-pandas & EDA
 This repository consists of the codes and some case studies based on the topics, learned on pandas and EDA 
 
 ***What is pandas?***
